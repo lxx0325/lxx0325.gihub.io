@@ -20,3 +20,7 @@ A
 package-lock.json,f\a\fa288d1472d29beccb489a676f68739ad365fc47
 E
 source/_posts/test.md,4\d\4d33a4cbde32be00b27c06af222fad5efba24bcf
+;
+_config.yml,c\d\cd089ae45ce870c45e434019e8f1ed4f066cd425
+J
+source/categories/index.md,a\c\aca626f5e818825b594a6c01996205f115efe92f
