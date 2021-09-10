@@ -8,8 +8,8 @@ subtitle: ''
 description: '无聊的时候写下博客,记录下工作和学习中碰到的bug'
 keywords:
 author: lxx0325
-language: en
-timezone: ''
+language: zh-CN
+timezone: 'UTC'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
